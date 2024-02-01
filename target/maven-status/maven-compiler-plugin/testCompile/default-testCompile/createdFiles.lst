@@ -1,0 +1,10 @@
+hooks\HooksClass.class
+pages\LoginPage.class
+utils\SeleniumHelper.class
+stepDefinitions\ApiKeysServiceUI.class
+stepDefinitions\HomeStepDefs.class
+pages\GoogleRegistrationPage.class
+pages\ApiKeysPage.class
+TestRunners\TestRunnerJunit.class
+stepDefinitions\GoogleRegistrationStepDefs.class
+pages\MyPage.class

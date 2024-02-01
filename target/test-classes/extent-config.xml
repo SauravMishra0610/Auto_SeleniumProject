@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <theme>standard</theme>
+        <encoding>UTF-8</encoding>
+        <protocol>http</protocol>
+        <documentTitle>Extent</documentTitle>
+        <reportName>TestAutomation</reportName>
+        <testViewChartLocation>bottom</testViewChartLocation>
+        <dateFormat>dd-MM-yyyy</dateFormat>
+        <timeFormat>HH:mm:ss</timeFormat>
+        <!-- custom javascript -->
+        <scripts>
+            <![CDATA[
+        $(document).ready(function() {
+
+        });
+      ]]>
+        </scripts>
+
+        <!-- custom styles -->
+        <styles>
+            <![CDATA[
+
+      ]]>
+        </styles>
+    </configuration>
+</extentreports>

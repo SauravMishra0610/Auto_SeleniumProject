@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="58.547">
+    <testcase classname="Create Pagination App functionality tests" name="Check search functionality" time="58.404">
+        <system-out>
+            <![CDATA[Given User will navigate to pagination app "http://java-angular-react-pagination-app-deploy.s3-website-us-east-1.amazonaws.com".passed
+When User enter search keyword and click on search button...................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
